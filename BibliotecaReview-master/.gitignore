@@ -1,0 +1,17 @@
+# Arquivos de log
+*.log
+
+# Diretórios de build
+/bin/
+/obj/
+
+# Arquivos de configuração do IDE
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos temporários
+*.tmp
+*.temp
