@@ -1,6 +1,6 @@
 using System;
 
-namespace BibliotecaReview;
+namespace BibliotecaMinha;
 
 public interface IPessoa
 {
